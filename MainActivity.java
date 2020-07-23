@@ -1,4 +1,3 @@
-package com.example.peeyushrai.healthscanner;
 
 import android.content.Intent;
 import android.graphics.Color;
