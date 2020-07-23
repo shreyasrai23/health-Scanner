@@ -1,5 +1,3 @@
-package com.example.peeyushrai.healthscanner;
-
 import android.content.Context;
 import android.content.Intent;
 import android.os.AsyncTask;
