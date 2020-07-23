@@ -1,4 +1,3 @@
-package com.example.peeyushrai.healthscanner;
 
 /**
  * Created by shreyasrai on 4/20/18.
