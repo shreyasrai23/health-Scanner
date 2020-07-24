@@ -1,5 +1,3 @@
-package com.example.peeyushrai.healthscanner;
-
 public class ConditionNames {
     private String conditionName;
 
