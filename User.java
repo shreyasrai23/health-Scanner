@@ -1,5 +1,3 @@
-package com.example.peeyushrai.healthscanner;
-
 import android.text.Editable;
 
 import java.util.ArrayList;
