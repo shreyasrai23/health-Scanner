@@ -1,5 +1,3 @@
-package com.example.peeyushrai.healthscanner;
-
 import java.util.List;
 
 import android.graphics.Color;
